@@ -1,5 +1,5 @@
 <# 
-Add-GroupMembers-Graph-Interactive.ps1
+Add-GroupMembers-Graph-Interactive_neu.ps1
 
 Interaktives Skript: Mehrere User (Copy/Paste aus Ticket) zu Entra ID (Azure AD) Sicherheitsgruppen hinzufügen – via Microsoft Graph.
 
